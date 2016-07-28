@@ -1,10 +1,11 @@
 {
-  "name": "searchx",
+  "name": "search",
   "version": "1.0.0",
-  "description": "search throw ыsearch engines",
+  "description": "search",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "cheerio": "^0.20.0",
     "request": "^2.74.0"
   },
   "scripts": {
